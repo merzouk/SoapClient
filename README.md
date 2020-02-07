@@ -2,11 +2,11 @@ if you deploy you soap servie, you indicate the new url in pom.xml if you have c
 
 generate client  :
 
-mvn package
+1) mvn package
 
 build project :
 
-mvn install
+2) mvn install
 
 you can test code for ClientManageApplication class with command line :
 
@@ -14,6 +14,6 @@ you can test code for ClientManageApplication class with command line :
 
 Or 
 
-mvn spring-boot:run
+2) mvn spring-boot:run
 
 if you have deployed service, you car run junit test client
