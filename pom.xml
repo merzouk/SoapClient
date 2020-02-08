@@ -101,9 +101,6 @@
 					<generatePackage>org.com.wsdl</generatePackage>
 					<schemas>
 						<schema>
-							<url>http://localhost:8383/personService/ws/countries.wsdl</url>
-						</schema>
-						<schema>
 							<url>http://localhost:8383/personService/ws/person.wsdl</url>
 						</schema>
 					</schemas>
