@@ -1,28 +1,3 @@
-/*
- *--------------------------------------------------------
- * Administrateur
- *--------------------------------------------------------
- * Project     : clientManage
- *
- * Copyright Administrateur,  All Rights Reserved.
- *
- * This software is the confidential and proprietary
- * information of Administrateur.
- * You shall not disclose such Confidential Information
- * and shall use it only in accordance with the terms
- * of the license agreement you entered into with
- * Administrateur.
- *-------------------------------------------------------- 
- * 
- * Fichier 		:	PersonClient.java
- * Créé le 		: 	7 févr. 2020 à 15:00:42
- * Auteur		: 	Merzouk
- * 
- * Description 	:
- * 
- *---------------------------------------------------------
- */
-
 package org.com.client;
 
 import org.com.wsdl.AddPersonRequest;
